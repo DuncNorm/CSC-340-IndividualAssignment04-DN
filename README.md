@@ -2,7 +2,10 @@
 
 This is my submission for our Individual Assignment 04, I have only modified the "User" Java and HTML files.
 Instead of adding users to our site, the site now resembles a friends list on Steam, Xbox, Playstation, etc.
-You can add you friend by their gamertag, email, and a new gamerscore as well as delete and modify them by clicking on their ID.
+You can add your friend by their Gamertag, email, and a new gamerscore and delete and modify them by clicking on their ID.
+I have also uploaded a zip file again, so you won't be able to see everything neatly in GitHub.
+I apologize for any inconvenience this may cause, I believe it's an issue with me using an old NetBeans.
+I will look into it to avoid any inconvenience on the next assignment.
 
 # Instructions (Since I modified the Demo, to not leave anything out)
 
